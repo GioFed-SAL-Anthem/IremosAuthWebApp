@@ -1,0 +1,30 @@
+# Node modules and dependencies
+node_modules
+.expo
+.expo-shared
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+web-build
+dist
+.next
+build
+tmp
+.cache
+
+# Mac & system files
+.DS_Store
+
+# Git and dev files
+.git
+.gitignore
+.vscode
+.env
+.env.local
+.env.development
+.env.production
+babel.config.js
+metro.config.js
+tsconfig.json
+jest.config.js
